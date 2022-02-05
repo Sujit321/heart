@@ -60,6 +60,6 @@
       transform: scale(1) rotate(-45deg);
     }
     50% {
-      transform: scale(0.6) rotate(-45deg);
+      transform: scale(3) rotate(-45deg);
     }
   }
